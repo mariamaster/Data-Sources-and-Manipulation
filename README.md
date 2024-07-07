@@ -1,8 +1,11 @@
 # Data-Sources-and-Manipulation
 
-**Programming Assignment 1:** *Research question*: Do people order different foods at different times of day?
+**Programming Assignment 1:** 
+
+  *Research question*: Do people order different foods at different times of day?
 
 **Programming Assignment 2:** 
+   
    *Research question*: Is there an association between average household income and service requests? What is the relationship between average household income and non-parking-related service requests? What is the relationship between average household income and parking-related service requests?
 
 **Programming Assignment 3:** *Research question*: Which data science tool is more popular in the data science/statistics community pandas or R?
