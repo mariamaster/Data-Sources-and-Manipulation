@@ -7,7 +7,9 @@
 **Programming Assignment 3:** *Research question*: Which data science tool is more popular in the data science/statistics community pandas or R?
 
 **Final Group Project:** *Research question*: Does the weather condition impact accidents within cities during the morning, afternoon, and evening of the day?
+
     *Sub Questions*:
+    
       1. What time of the year do we see the most accidents?
       2. What time of the day do we see the most accidents 
       3. What is the predominant weather condition observed during accidents overall?
