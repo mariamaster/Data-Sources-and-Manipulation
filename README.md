@@ -1,4 +1,4 @@
-# Data-Sources-and-Manipulation
+# Data Sources and Manipulation Case Studies
 
 **Programming Assignment 1** 
 
